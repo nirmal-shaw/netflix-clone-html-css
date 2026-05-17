@@ -1,3 +1,4 @@
+![Netflix UI Clone](Netflix_Clone_NirmalShaw.png)
 # Netflix Landing Page Clone
 
 ## Overview
